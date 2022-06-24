@@ -47,7 +47,7 @@ You will find all the links to resources for the following ' front-end' assignme
 > Please read all the resources provided in the respective assignments.
 
 - [Create a portfolio](https://classroom.github.com/a/F77HRE3T)
-- [Create a simple todo](https://classroom.github.com/a/_4d2ae2U)
+- [Create a simple todo](https://classroom.github.com/a/SfNzqGWA)
 
 
 ### Javascript
@@ -55,8 +55,7 @@ You will find all the links to resources for the following ' front-end' assignme
 
 - [Javascript phase 1](https://classroom.github.com/a/0m79Qmvp)
 - [Javascript phase 2](https://classroom.github.com/a/kwaRAZQh)
-- [Javascript phase 3](https://classroom.github.com/a/bcBNuYRU)
-- [Javascript phase 4](https://classroom.github.com/a/2qElSpWN)
+- [Javascript phase 3](https://classroom.github.com/a/DaH0jkO1)
 
 
 
